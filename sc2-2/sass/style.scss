@@ -1,0 +1,15 @@
+$text-color: #f00;
+
+body{
+    margin: 0;
+    font: 20px sans-serif;
+}
+
+h1{
+    color: $text-color;
+}
+
+.second{
+    color: $text-color;
+    width: 20%
+}
